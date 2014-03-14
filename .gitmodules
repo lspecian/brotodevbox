@@ -1,24 +1,24 @@
 [submodule "cookbooks/postgresql"]
 	path = cookbooks/postgresql
-	url = git@github.com:brennovich/postgresql.git
+	url =  https://github.com/brennovich/postgresql.git
 [submodule "cookbooks/apt"]
 	path = cookbooks/apt
-	url = git@github.com:opscode-cookbooks/apt.git
+	url =  https://github.com/opscode-cookbooks/apt.git
 [submodule "cookbooks/openssl"]
 	path = cookbooks/openssl
-	url = git@github.com:opscode-cookbooks/openssl.git
+	url =  https://github.com/opscode-cookbooks/openssl.git
 [submodule "cookbooks/rbenv"]
 	path = cookbooks/rbenv
-	url = git@github.com:fnichol/chef-rbenv.git
+	url =  https://github.com/fnichol/chef-rbenv.git
 [submodule "cookbooks/ruby_build"]
 	path = cookbooks/ruby_build
-	url = git@github.com:fnichol/chef-ruby_build.git
+	url =  https://github.com/fnichol/chef-ruby_build.git
 [submodule "cookbooks/heroku-toolbelt"]
 	path = cookbooks/heroku-toolbelt
-	url = git@github.com:jimeh/chef-heroku-toolbelt.git
+	url =  https://github.com/jimeh/chef-heroku-toolbelt.git
 [submodule "cookbooks/mysql"]
 	path = cookbooks/mysql
-	url = git@github.com:opscode-cookbooks/mysql.git
+	url =  https://github.com/opscode-cookbooks/mysql.git
 [submodule "cookbooks/java"]
 	path = cookbooks/java
 	url = https://github.com/opscode-cookbooks/java.git
@@ -58,3 +58,6 @@
 [submodule "cookbooks/phantomjs"]
 	path = cookbooks/phantomjs
 	url = https://github.com/customink-webops/phantomjs.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
